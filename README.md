@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SchmidiMC
+- 👀 I’m interested in programming, gaming, sports.
+- 🌱 I’m currently learning c++.
+- 💞️ I’m looking to collaborate on smaller projects, web based or smaller games.
+- 📫 How to reach me: Discord: Schmidi#2001
